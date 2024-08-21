@@ -1,1 +1,1 @@
-tomcat:latest
+tomcat:9
